@@ -1,0 +1,9 @@
+# folders
+node_modules/
+src/
+dist/
+automation/
+
+# files
+package.backup.json
+package-lock.json
